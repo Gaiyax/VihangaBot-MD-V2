@@ -23,13 +23,13 @@ global.REACT_NUMBER = '9476342733' //මෙතන number එක.
 // Other
 global.owner = ['94770154460',''] //මෙතන number එක.
 global.premium = ['94770154460','94770154460'] //මෙතන number එක.
-global.botname = 'Gaveesha' //මෙතන නම.
-global.ownername = 'Gavee' //මෙතන නම.
-global.ownername = 'Gaiya' //මෙතන නම.
+global.botname = 'GAVEESHA' //මෙතන නම.
+global.ownername = 'GAVEE' //මෙතන නම.
+global.ownername = 'GAVEESHA' //මෙතන නම.
 global.group1 = 'https://chat.whatsapp.com/KbIhAyldhZI80zNY42ndOi' //මෙතන grouplink එක.
 global.group2 = 'https://chat.whatsapp.com/KbIhAyldhZI80zNY42ndOi' //මෙතන grouplink එක.
-global.packname = 'VIHANGA BOT INC' //මෙතන නම.
-global.cap = '*By Gaveesha*' //මෙතන නම.
+global.packname = 'GAVEESHA RANDITH' //මෙතන නම.
+global.cap = '*𝙱𝚈 𝙶𝙰𝚅𝙴𝙴 ❤🥺*' //මෙතන නම.
 global.img = 'https://i.ibb.co/7vRrLkS/Picsart-22-08-16-23-11-19-670.jpg' //මෙතන බොට්ගෙ photo එකට ඕන derect link එකක්.
 global.ytchannel = 'https://www.facebook.com/appagememe/' //මෙතන කැමති ලින්ක් එකක්.
 global.monayawal = '100000' //මෙතන මාරු කරන්න එපා.
@@ -67,7 +67,7 @@ global.mess = {
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*ටිකක් ඉන්න ⏳*',
+    wait: '*PLEASE WAIT ⏳*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
